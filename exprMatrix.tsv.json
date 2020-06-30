@@ -1,0 +1,8 @@
+{
+    "type": "genomicMatrix",
+    "dataSubtype": "scRNA-seq gene expression",
+    "label": "exprMatrix.tsv",
+    "colNormalization": true,
+    "cohort": "Diff-Fetal-Neuron-SS2",
+    "version": "2020-05-07"
+}
