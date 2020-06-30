@@ -1,7 +1,0 @@
-{
-    "type": "clinicalMatrix",
-    "dataSubtype": "phenotype",
-    "label": "meta.tsv",
-    "cohort": "Diff-Fetal-Neuron-SS2",
-    "version": "2020-05-07"
-}
